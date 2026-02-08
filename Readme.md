@@ -1,6 +1,6 @@
 # Git - Ferramenta de versionamento
 
-Primeiros passos-- 
+Primeiros passos
 
 
 ## Objetivo
